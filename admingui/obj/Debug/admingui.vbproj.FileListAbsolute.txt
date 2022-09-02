@@ -1,0 +1,13 @@
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\bin\Debug\admingui.exe.config
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\bin\Debug\admingui.exe
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\bin\Debug\admingui.pdb
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\bin\Debug\admingui.xml
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.vbproj.AssemblyReference.cache
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.Form1.resources
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.Resources.resources
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.vbproj.GenerateResource.cache
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.vbproj.CoreCompileInputs.cache
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.exe
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.xml
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.pdb
+F:\FOLDER TA (PENTING JANGAN BUKA SEMBARANGAN!!!)\New folder\Projek RFID TA\admingui\obj\Debug\admingui.vbproj.SuggestedBindingRedirects.cache
